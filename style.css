@@ -12,7 +12,7 @@ body{
 
 .main-body{
     background: white;
-    padding: 5px;
+    padding: 10px;
     border-radius: 10px;
     width: 250px;
     align-items: center;
@@ -25,7 +25,7 @@ img{
 }
 
 .note{
-    font-size: 15px;
+    font-size: 16px;
     color: grey;
     text-align: center;
     font-weight: normal;
@@ -33,7 +33,7 @@ img{
 
 p{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 18px;
     color: black;
     text-align: center;
 }
